@@ -1,0 +1,41 @@
+header {
+    font-size: 70px;
+font-family: 'arial';
+}
+body {
+    height: 600px;
+    background-image: url("fkq.jpg");
+    background-repeat:no-repeat;
+    background-position-x:center;
+    background-position-y:center;
+    background-size: 150rem;
+  }
+
+
+label{
+ font-family: 'arial';
+ font-size: xx-large;
+}
+
+span{
+text-align: center;
+font-family: arial;
+font-size: 80px;
+
+}
+button{
+    text-align: center;
+    border-radius: 30px;
+    width: 80px;
+    border: none;
+    height: 40px;
+    box-shadow: 0 0 8 píxeles 16px white (0,0,0,0.2), 0 6px 20px 0 white (0,0,0,0.19);
+}
+/*
+body {
+    font-family:'arial';
+    color: white(192, 192, 192);
+    text-align: justify;
+    background-color: rgb(194, 0, 0);
+}
+*/
